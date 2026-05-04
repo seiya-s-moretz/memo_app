@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">memo_app</string>
+    <string name="none_memo">メモがありません</string>
+    <string name="dialog_01">メモを削除しますか？</string>
+    <string name="dialog_02">この操作は元に戻せません。</string>
+    <string name="cancel">キャンセル</string>
+</resources>
